@@ -1,0 +1,12 @@
+
+.magazinesContainer{
+    display: flex;
+
+    flex-wrap: wrap;
+}
+
+.imgContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
